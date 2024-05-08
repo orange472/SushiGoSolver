@@ -1,13 +1,15 @@
 # CPSC 474 Final Project | Sushi Go!
 
-Sushi Go! is a multiplayer card game in which different cards combine for different amounts of points. The objective of the game is to score as many points as possible.
+Sushi Go! is a multiplayer card game in which different cards combine for different amounts of points. The objective of the game is to score as many points as possible. 
 
 Each player receives a hand at the start of each round and selects one card to keep, passing the remaining cards to the player on their left. The chosen cards are revealed simultaneously after each round, impacting decisions in the next round. This process continues until there are no cards left.
+
+This solver is for a simplified, two-player version of the game without pudding or chopsticks.
 
 The official rules can be found [here](https://gamewright.com/pdfs/Rules/SushiGoTM-RULES.pdf).
 
 ![Sushi Go!](https://cdn.thewirecutter.com/wp-content/media/2021/06/52-things-sushigo-2048px-5461-3x2-1.jpg?auto=webp&quality=75&crop=1.91:1&width=1200)
-*An image of a standard Sushi Go! game.*
+*An image of a standard Sushi Go! game. Credit to Michael Hession.*
 
 - [CPSC 474 Final Project | Sushi Go!](#cpsc-474-final-project--sushi-go)
   - [Description of Code](#description-of-code)
